@@ -553,16 +553,11 @@ If you add functionality to this application, create an alternative implementati
 
 h2. Credits
 
-Daniel Kehoe implemented the application and wrote the tutorial.
 
 Is the app useful to you? Follow the project on Twitter: "@rails_apps":http://twitter.com/rails_apps
 and tweet some praise. I'd love to know you were helped out by what I've put together.
 
-h2. MIT License
 
-"MIT License":http://www.opensource.org/licenses/mit-license
-
-Copyright ©2014-15 Daniel Kehoe
 
 h2. Useful Links
 
